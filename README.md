@@ -12,7 +12,7 @@ Projeto pessoal desenvolvido com HTML básico e CSS
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/ErickBezerrar/UNES-university/blob/main/images/Screenshot_20221128_045828.png">
+  <img alt="License" src="https://github.com/ErickBezerrar/Anna-Bela-Fotografia/blob/main/IMAGES/Screenshot_20221217_092523.png">
 </p>
 
 <br>
@@ -28,6 +28,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O site foi desenvolvido para treinamento pessoal e exercitação de HTML e CSS.
+O projeto possui interligação com links, bem como o estilo dos mesmos.
+Foi feito rapidamente com os conhecimentos que eu tinha.
+Busco aprender mais e aprimorar minhas habilidades
 
 ## 🔖 Layout
 
