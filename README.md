@@ -29,6 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O site foi desenvolvido para treinamento pessoal e exercitação de HTML e CSS.
 O projeto possui interligação com links, bem como o estilo dos mesmos.
+O projeto possui foco com trabalho com DIVS e SPANS e o trabalho com bordas.
 Foi feito rapidamente com os conhecimentos que eu tinha.
 Busco aprender mais e aprimorar minhas habilidades
 
