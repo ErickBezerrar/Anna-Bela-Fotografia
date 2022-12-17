@@ -19,8 +19,8 @@
 }
 
 #navbar{
-
-    font-size: 27;
+    
+    font-size: 20px;
     font-style: italic;
     font-family: cursive;
 
@@ -39,6 +39,15 @@ a{
     text-decoration: none;
     font-weight: bold;
     border: 1px;
-    padding: 1px;
     
 }
+
+img{
+    border-radius: 25%;
+}
+
+#sobreann{
+    background-color:  #fffbda;
+    border-radius: 8%;
+    text-align: center;
+}   
