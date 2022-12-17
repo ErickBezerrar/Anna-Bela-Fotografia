@@ -50,4 +50,25 @@ img{
     background-color:  #fffbda;
     border-radius: 8%;
     text-align: center;
-}   
+}
+
+#sobreanna{
+    background-color:  #fffbda;
+    text-align: left;
+    height: 800px;
+}
+
+#sobreannacontato{
+    background-color:  #fffbda;
+    text-align: left;
+    height: 800px;
+    font-size: 20px;
+}
+
+.contato{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+    text-align: center;
+}
